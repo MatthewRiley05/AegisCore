@@ -1,5 +1,5 @@
 # AegisCore
-![image](https://github.com/MatthewRiley05/AegisCore/assets/52445584/2e6e20ce-caa8-4afb-bfe1-8dda72856320)
+![image](https://github.com/MatthewRiley05/AegisCore/assets/52445584/d5c7d5f0-cc50-42a6-8353-e864c52e5545)
 
 ## Description
 
