@@ -1,4 +1,5 @@
-# AegisCore
+# Aegis Core
+
 ![Static Badge](https://img.shields.io/badge/License-GPL_v3-blue?style=for-the-badge)  
   
 ![Static Badge](https://img.shields.io/badge/Download_from_Github-Releases-green?style=for-the-badge&logo=Github&link=https%3A%2F%2Fgithub.com%2FMatthewRiley05%2FAegisCore%2Freleases)  
