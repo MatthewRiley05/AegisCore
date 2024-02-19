@@ -1,4 +1,6 @@
 # AegisCore
+![Static Badge](https://img.shields.io/badge/License-GPL_v3-blue)
+
 ![image](https://github.com/MatthewRiley05/AegisCore/assets/52445584/d5c7d5f0-cc50-42a6-8353-e864c52e5545)
 
 ## Description
